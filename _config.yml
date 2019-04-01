@@ -1,3 +1,4 @@
+ title: Pratt Singh
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -6,6 +7,6 @@ relative_links:
 include:
 
   - README.md
- title: Pratt Singh
+
 
 theme: jekyll-theme-cayman
