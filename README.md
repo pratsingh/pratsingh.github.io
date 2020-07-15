@@ -1,7 +1,4 @@
-## Portfolio
-### Portfolio for the 19-20 school year
-b
-
+## Portfolio for Data Science
 
 ## Exploring Diversity in The Academy Awards (Oscars)
 
