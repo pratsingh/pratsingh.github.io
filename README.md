@@ -1,5 +1,6 @@
 ## Portfolio for Data Science
-
+<br>
+# Projects
 ## Exploring Diversity in [The Academy Awards (Oscars)](https://www.oscars.org)
 Tools used: python, numpy, pandas, matplotlib, seaborn, Excel, Tableau. <br>
 
