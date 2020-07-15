@@ -1,6 +1,6 @@
 ## Portfolio for Data Science
 
-## Exploring Diversity in The Academy Awards (Oscars)
+## Exploring Diversity in [The Academy Awards (Oscars)](https://www.oscars.org)
 
 The Oscars are the ultimate recognition of merit in the film industry, and are won by few. These awards are often the crowning achievement for actors, and greatly compliment their career and image. The Academy Awards have been given since the 1920s, making them nearly a 100 years old. <br>
 <br>
