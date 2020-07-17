@@ -1,4 +1,4 @@
-#  <span style="color: #E9967A;">Portfolio for Data Science</span>
+#  <span style="color: #556B2F;">Portfolio for Data Science</span>
 
 ## Exploring Diversity in [The Academy Awards (Oscars)](https://www.oscars.org)
 Tools used: python, numpy, pandas, matplotlib, seaborn, Excel, Tableau. <br>
