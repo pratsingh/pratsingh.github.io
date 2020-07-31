@@ -3,7 +3,7 @@
 ## Finding the Best Markets to Advertise an E-Learning Product
 Tools used: Python (Pandas, NumPy, matplotlib, seaborn). <br>
 
-Suppose our company offered an E-Learning subscription product that taught users to code, which markets do we advertise in to maximize outreach and growth? In this project I decided to analyze how a product offering coding courses can target markets based on data from a survey. I cleaned the data, visualized, corrected for outliers, analyzed and then concluded with the 2 best markets to advertise in. <span style="color: #B22222;">The notebook and code can be viewed by clicking</span> [here](https://nbviewer.jupyter.org/github/pratsingh/Markets-to-advertise/blob/master/Markets_To_Advertise_In.ipynb). <br>
+Suppose our company offered an E-Learning subscription based product that taught users to code, which markets do we advertise in to maximize outreach and growth? In this project I decided to analyze how a product offering coding courses can target markets based on data from a survey. I cleaned the data, visualized, corrected for outliers, analyzed and then concluded with the 2 best markets to advertise in. <span style="color: #B22222;">The notebook and code can be viewed by clicking</span> [here](https://nbviewer.jupyter.org/github/pratsingh/Markets-to-advertise/blob/master/Markets_To_Advertise_In.ipynb). <br>
 
 ## Exploring Diversity in [The Academy Awards (Oscars)](https://www.oscars.org)
 Tools used: Python (NumPy, Pandas, matplotlib, seaborn), Tableau, Excel. <br>
