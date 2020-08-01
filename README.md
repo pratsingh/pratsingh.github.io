@@ -1,4 +1,4 @@
-#  <span style="color: #ff8080;">Portfolio for Data Science</span>
+#  <span style="color: #ff8080;">Project Portfolio</span>
 
 ## Finding the Best Markets to Advertise an E-Learning Product
 Tools used: Python (Pandas, NumPy, matplotlib, seaborn). <br>
