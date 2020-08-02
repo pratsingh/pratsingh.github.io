@@ -1,4 +1,4 @@
-##  <span style="color: #4682B4;">PORTFOLIO</span> <span style="color: #bd8c7d;"> // </span> <span style="color: #4682B4;">PROJECTS</span>
+##  <span style="color: #0f2862;">PORTFOLIO</span> <span style="color: #E69567;"> // </span> <span style="color: #0f2862;">PROJECTS</span>
 
 ## Finding the Best Markets to Advertise an E-Learning Product
 Tools used: Python (Pandas, NumPy, matplotlib, seaborn). <br>
