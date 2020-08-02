@@ -1,3 +1,5 @@
+##  <span style="color: #2d545e;">About Me</span>
+
 ##  <span style="color: #2d545e;">PORTFOLIO</span> <span style="color: #2d545e;"> // </span> <span style="color: #2d545e;">PROJECTS</span>
 
 ## Finding the Best Markets to Advertise an E-Learning Product
