@@ -20,5 +20,5 @@ From the analysis performed in Python, I created and joined a new dataset which 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Trends_vis/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>    
 
 ## <span style="color: #2d545e;">CONTACT</span>
-email:    [singhp98@uw.edu](singhp98@uw.edu)   or   [prat.singh2016@gmail.com](prat.singh2016@gmail.com) <br>
+email: \ \ \ singhp98@uw.edu \ \ or \ \ prat.singh2016@gmail.com <br>
 LinkedIn: [linkedin.com/in/prattsingh/](https://www.linkedin.com/in/prattsingh/)
