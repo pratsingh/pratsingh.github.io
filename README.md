@@ -1,5 +1,5 @@
 ##  <span style="color: #2d545e;">ABOUT ME</span>
-Hi, my name is Pratt. I am a June 2020 new grad from the University of Washington in Seattle. I graduated with a B.S. in Physics, which exposed me to numerous domains such as data analysis, hypothesis testing, databases, version control, technical writing, and machine learning. Outside of work, I like to 
+Hi, my name is Pratt! I am a June 2020 new grad from the University of Washington in Seattle. I graduated with a B.S. in Physics, which exposed me to numerous domains such as data analysis, hypothesis testing, databases, version control, technical writing, and machine learning. Outside of work, I'm a huge movie fan, like to hike and drink coffee, weightlift, and read books about Roman history!
 ##  <span style="color: #01579b;">PORTFOLIO</span> <span style="color: #91d3f5;"> // </span> <span style="color: #01579b;">PROJECTS</span>
 ## Finding the Best Markets to Advertise an E-Learning Product
 Tools used: Python (Pandas, NumPy, matplotlib, seaborn). <br>
