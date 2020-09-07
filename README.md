@@ -1,6 +1,6 @@
-##  <span style="color: #01579b;">ABOUT ME</span>
+##  <span style="color: #01579b;">About Me</span>
 Hi, my name is Pratt! I am a June 2020 new grad from the University of Washington in Seattle. I graduated with a B.S. in Physics, which exposed me to numerous domains such as data analysis, hypothesis testing, databases, version control, technical writing, machine learning and most importantly- collaboration. I enjoy working on projects that apply these techniques and allow for practical use of data techniques. Outside of work, I love watching movies, hiking, try new cafés, weightlift, and read!
-##  <span style="color: #01579b;">PORTFOLIO</span> <span style="color: #91d3f5;"> // </span> <span style="color: #01579b;">PROJECTS</span>
+##  <span style="color: #01579b;">Portfolio</span> <span style="color: #91d3f5;"> // </span> <span style="color: #01579b;">Projects</span>
 ## Finding the Best Markets to Advertise an E-Learning Product
 Tools used: Python (Pandas, NumPy, matplotlib, seaborn). <br>
 
