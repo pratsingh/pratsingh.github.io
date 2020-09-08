@@ -1,7 +1,7 @@
 ##  <span style="color: #01579b;">About Me</span>
 Hi, I'm Pratt! I graduated June 2020 from the University of Washington in Seattle. I graduated with a B.S. in Physics, which exposed me to numerous domains such as problem solving, data analysis, hypothesis testing, databases, version control, technical writing, machine learning and most importantly- collaboration. <br>
 
-I enjoy problem solving and working with data to seek out key insights. Outside of work, I love watching movies, hiking, trying new cafés, and reading!
+I enjoy problem solving and working with challenging data to seek out key insights. Outside of work, I love watching movies, hiking, trying new cafés, and reading!
 ##  <span style="color: #01579b;">Portfolio</span> <span style="color: #91d3f5;"> // </span> <span style="color: #01579b;">Projects</span>
 ## Finding the Best Markets to Advertise an E-Learning Product
 Tools used: Python (Pandas, NumPy, matplotlib, seaborn). <br>
