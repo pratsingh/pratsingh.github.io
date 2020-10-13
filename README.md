@@ -3,6 +3,13 @@ Hi, I'm Pratt! I graduated June 2020 from the University of Washington in Seattl
 
 I enjoy problem solving and working with challenging data to seek out key insights. Outside of work, I love watching movies, hiking, trying new cafés, and reading!
 ##  <span style="color: #01579b;">Portfolio</span> <span style="color: #91d3f5;"> // </span> <span style="color: #01579b;">Projects</span>
+## Deploying Machine Learning Models with Django
+Tools used: Machine Learning with Python (Sklearn, pandas, numpy), Django(REST, POST), SQLite <br>
+
+<span style="color: #B22222;">The repository can be viewed by clicking </span> [here](https://github.com/pratsingh/ML_Django_Project/blob/main/README.md) <br>
+
+The purpose of this project was to build a Machine Learning model that predicts income level based on census data, and then to deploy that model to a Django server. In this project I utlized the Random Forest and Extra Trees algorithms for machine learning predictions, and built a django server that had interactivity using REST API. SQLite was the database of choice. Finally, I ran an A/B test to see which algorithm (random forest vs extra trees) yielded better results. <br>
+
 ## Finding the Best Markets to Advertise an E-Learning Product
 Tools used: Python (Pandas, NumPy, matplotlib, seaborn). <br>
 
