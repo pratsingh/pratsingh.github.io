@@ -1,13 +1,14 @@
 ##  <span style="color: #01579b;">About Me</span>
-Hi, I'm Pratt! I graduated from the University of Washington-Seattle with a B.S. in Physics, which exposed me to numerous domains such as data analysis, hypothesis testing, databases, version control, technical writing, machine learning and most importantly- collaboration. <br>
+Hi, I'm Pratt! I graduated from the University of Washington-Seattle and currently work as an Analyst at Starbucks. As part of the Pricing Strategy and Applied Economics team, I have developed tools and models which help drive business impact. The intersection of business and data oriented decisions has always been my passion, and I love collaborating with diverse stakeholders that this field brings! <br>
 
-I enjoy problem solving and working with challenging data to seek out key insights. Outside of work, I love watching movies, hiking, trying new cafés, and reading!
+Outside of work, I love watching movies, hiking, trying new cafés, and cuddling with my cat!
 ##  <span style="color: #01579b;">Portfolio</span> <span style="color: #91d3f5;"> // </span> <span style="color: #01579b;">Projects</span>
 ## Deploying Machine Learning Models with Django
 Tools used: Machine Learning with Python (Sklearn, pandas, numpy), Django (REST, POST), SQLite <br>
 
 <span style="color: #B22222;">The repository can be viewed by clicking </span> [here](https://github.com/pratsingh/ML_Django_Project/blob/main/README.md) <br>
 
+Update 2023: In light of the situation in recent years, I have decided that this project is insensitive to the reality of systematic oppression that has existed in this country. As users of data, we should always practice and recognize the ethical boundaries of our analyses. When I did this project in 2020, I was taking it at face value, but now I think it is important that we share the message of responsible data uses. <br>
 The purpose of this project was to build a Machine Learning model that predicts income level based on census data, and then to deploy that model to a server using Django. In this project I utlized the Random Forest and Extra Trees algorithms for machine learning predictions, and built a django server that had interactivity using REST API. SQLite was the database of choice. Finally, I ran an A/B test to see which algorithm (random forest vs extra trees) yielded better results. <br>
 
 ## Finding the Best Markets to Advertise an E-Learning Product
