@@ -1,4 +1,4 @@
-##  <span style="color: #01579b;">About Me</span>
+##  <span style="color: #01579b;">Pratt Singh</span>
 Hi, I'm Pratt! I graduated from the University of Washington-Seattle and currently work as an Analyst at Starbucks. As part of the Pricing Strategy and Applied Economics team, I have developed tools and models which help drive business impact. The intersection of business and data oriented decisions has always been my passion, and I love collaborating with diverse stakeholders that this field brings! <br>
 
 Outside of work, I love watching movies, hiking, trying new cafés, and cuddling with my cat!
